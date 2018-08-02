@@ -1,0 +1,9 @@
+URL,File Name,File Type
+http://localhost:8000/,.Python@,Hidden File
+http://localhost:8000/,bin/,Directory
+http://localhost:8000/,chromedriver,Regular File
+http://localhost:8000/,contents.csv,Regular File
+http://localhost:8000/,include/,Directory
+http://localhost:8000/,lib/,Directory
+http://localhost:8000/,page-contents.csv,Regular File
+http://localhost:8000/,web_scraper.py,Regular File
