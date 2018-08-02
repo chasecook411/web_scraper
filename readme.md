@@ -5,5 +5,5 @@ A simple webscraper written in Python for retrieving the contents of an online d
 ```python -m SimpleHTTPServer```
 
 ### Setup
-	* Makes use of [Selenium](https://www.seleniumhq.org/).
-	* You'll also need the latest ChromeDriver binary, which can be [downloaded here](http://chromedriver.chromium.org/downloads). 
+Makes use of [Selenium](https://www.seleniumhq.org/).
+You'll also need the latest ChromeDriver binary, which can be [downloaded here](http://chromedriver.chromium.org/downloads). 
